@@ -6,7 +6,7 @@
 ### Purpose 
 This library serves to be a lightweight utiltiy to parse data from [Editor.js](https://github.com/codex-team/editor.js), it was developed as the need arose for the ability to utilize the ease of use of [Editor.js](https://github.com/codex-team/editor.js), alongside [React](https://github.com/facebook/react), or the ever-increasing benefits of [NextJS](https://github.com/vercel/next.js)
 
-Clean data output from [Editor.js](https://github.com/codex-team/editor.js) comnes in JSON form, with an exact formatting of
+Clean data output from [Editor.js](https://github.com/codex-team/editor.js) comes in JSON form, with an exact formatting of:
 ```json
 {
     "time":1618024997507,
@@ -52,6 +52,9 @@ Clean data output from [Editor.js](https://github.com/codex-team/editor.js) comn
     "version":"2.20.1"
   }
 ```
+
+After parsing, the end result looks identical to the editor, as seen below:
+![editor-to-jsx](https://github.com/lrth06/editor-to-jsx)
 
 
 > Thank you for using this library, pull requests are welcome, and I hope this helps you in your ventures
