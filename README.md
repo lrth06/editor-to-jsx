@@ -6,7 +6,7 @@
 ### Purpose 
 This library serves to be a lightweight utiltiy to parse data from [Editor.js](https://github.com/codex-team/editor.js), it was developed as the need arose for the ability to utilize the ease of use of [Editor.js](https://github.com/codex-team/editor.js), alongside [React](https://github.com/facebook/react), or the ever-increasing benefits of [NextJS](https://github.com/vercel/next.js)
 > Thank you for using this library, pull requests are welcome, and I hope this helps you in your ventures
- > -Toby Hagan 
+> - Toby Hagan 
 
 ### Usage
 There are currently two functions available from exitor-to-jsx:
