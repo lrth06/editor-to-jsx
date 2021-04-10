@@ -37,7 +37,7 @@
         props.style.color="#A1A7B6"
         props.style.padding="12px"
         props.style.borderRadius="3px"
-        props.style.fontSize="smaller"
+        props.style.fontSize="12px"
 
     }
     if(type==="embed"){
@@ -97,7 +97,7 @@
         props.style.backgroundColor="white"
         props.style.padding="12px"
         props.style.borderRadius="3px"
-        props.style.fontSize="smaller"
+        props.style.fontSize="12px"
     }
     if(type === "list"){
         let prefix = listStyle === 'ordered'? 'o':'u' 

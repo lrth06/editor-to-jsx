@@ -1,6 +1,6 @@
 {
   "name": "editor-to-jsx",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Editor.js to JSX element conversion module, very lightweight, very fast, very clean.",
     "repository": {
 	        "type": "git",
